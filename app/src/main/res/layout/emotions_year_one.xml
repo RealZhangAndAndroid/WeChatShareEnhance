@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+    android:layout_marginRight="@dimen/activity_horizontal_margin"
+    android:layout_marginTop="@dimen/activity_vertical_margin"
+    android:background="#3F51B5"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin_card"
+    android:paddingLeft="@dimen/activity_horizontal_margin_card"
+    android:paddingRight="@dimen/activity_horizontal_margin_card"
+    android:paddingTop="@dimen/activity_vertical_margin_card"
+    tools:showIn="@layout/activity_main">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:text="@string/Emotions_Year_one"
+            android:textColor="#9FA8DA"
+            android:textSize="10dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/buck"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="@dimen/emotion_year1_year2_padding"
+                android:scaleType="fitXY"
+                android:src="@drawable/buck"
+                android:textColor="#3F51B5" />
+
+            <ImageView
+                android:id="@+id/frost"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="@dimen/emotion_year1_year2_padding"
+                android:scaleType="fitXY"
+                android:src="@drawable/frost"
+                android:textColor="#3F51B5" />
+
+            <ImageView
+                android:id="@+id/blackbeard"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="@dimen/emotion_year1_year2_padding"
+                android:scaleType="fitXY"
+                android:src="@drawable/blackbeard"
+                android:textColor="#3F51B5" />
+
+            <ImageView
+                android:id="@+id/valkyrie"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="@dimen/emotion_year1_year2_padding"
+                android:scaleType="fitXY"
+                android:src="@drawable/valkyrie"
+                android:textColor="#3F51B5" />
+
+            <ImageView
+                android:id="@+id/capitao"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="@dimen/emotion_year1_year2_padding"
+                android:scaleType="fitXY"
+                android:src="@drawable/capitao"
+                android:textColor="#3F51B5" />
+
+            <ImageView
+                android:id="@+id/caveira"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="@dimen/emotion_year1_year2_padding"
+                android:scaleType="fitXY"
+                android:src="@drawable/caveira"
+                android:textColor="#3F51B5" />
+
+            <ImageView
+                android:id="@+id/hibana"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="@dimen/emotion_year1_year2_padding"
+                android:scaleType="fitXY"
+                android:src="@drawable/hibana"
+                android:textColor="#3F51B5" />
+
+            <ImageView
+                android:id="@+id/echo"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="@dimen/emotion_year1_year2_padding"
+                android:scaleType="fitXY"
+                android:src="@drawable/echo"
+                android:textColor="#3F51B5" />
+
+            <ImageView
+                android:id="@+id/jackal"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="@dimen/emotion_year1_year2_padding"
+                android:scaleType="fitXY"
+                android:src="@drawable/jackal"
+                android:textColor="#3F51B5" />
+
+
+            <ImageView
+                android:id="@+id/mira"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="@dimen/emotion_year1_year2_padding"
+                android:scaleType="fitXY"
+                android:src="@drawable/mira"
+                android:textColor="#3F51B5" />
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>

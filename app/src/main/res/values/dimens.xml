@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+    <dimen name="activity_vertical_margin">5dp</dimen>
+    <dimen name="fading_edge">80dp</dimen>
+    <dimen name="activity_horizontal_margin_card">6dp</dimen>
+    <dimen name="activity_vertical_margin_card">6dp</dimen>
+    <dimen name="imageSzie">60dp</dimen>
+    <dimen name="imageSzie_padding">1dp</dimen>
+    <dimen name="emotion_year1_year2_padding">5dp</dimen>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rainbow Six Fans</string>
+    <string name="target_scene_session">聊天</string>
+    <string name="target_scene_timeline">朋友圈</string>
+    <string name="send_button">发送</string>
+    <string name="Message">消息</string>
+    <string name="Emotions">Emotions Base</string>
+    <string name="Emotions_Year_one">Emotions Year One + Year Two</string>
+    <string name="Image">图片</string>
+    <string name="not_installed">"您需要安装微信客服端！"</string>
+    <string name="Camera">相机</string>
+</resources>

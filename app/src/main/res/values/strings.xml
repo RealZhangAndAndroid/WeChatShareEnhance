@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rainbow Six Fans</string>
+    <string name="target_scene_session">Chats</string>
+    <string name="target_scene_timeline">Moments</string>
+    <string name="send_button">Send</string>
+    <string name="Message">Message</string>
+    <string name="Emotions">Emotions Base</string>
+    <string name="Emotions_Year_one">Emotions Year One + Year Two</string>
+    <string name="Image">Image</string>
+    <string name="not_installed">"You need installed WeChat client!"</string>
+    <string name="Camera">Camera</string>
+</resources>
